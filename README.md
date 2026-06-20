@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deekshapant802
+- 👋 Hi, I am Deeksha Pant
 - 👀 I’m interested in coding, reading and singing
 - 🌱 I’m currently learning dsa in C++ and machine learning
 - 😄 Pronouns: she/her
